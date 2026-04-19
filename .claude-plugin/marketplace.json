@@ -25,6 +25,20 @@
       "license": "MIT",
       "keywords": ["agents", "ssh", "tmux", "worktree", "parallel", "remote"],
       "category": "developer-tools"
+    },
+    {
+      "name": "rust-development",
+      "description": "Senior Rust development skills: TDD-disciplined implementation (rust-dev) and structured code review (rust-review).",
+      "source": "./plugins/rust-development",
+      "version": "0.1.0",
+      "author": {
+        "name": "Fran Tufro"
+      },
+      "homepage": "https://github.com/frantufro/claude-plugins",
+      "repository": "https://github.com/frantufro/claude-plugins",
+      "license": "MIT",
+      "keywords": ["rust", "tdd", "code-review", "development"],
+      "category": "developer-tools"
     }
   ]
 }

@@ -13,7 +13,8 @@ A Claude Code plugin marketplace.
 | Plugin | Description | Install |
 |--------|-------------|---------|
 | **skulk** | Manage a fleet of remote Claude Code agents over SSH | `/plugin install skulk@frantufro-plugins` |
+| **rust-development** | Senior Rust skills: TDD implementation and structured code review | `/plugin install rust-development@frantufro-plugins` |
 
 ## About
 
-Each plugin lives in its own source repository. This marketplace is a catalog that points to them. Plugins are fetched directly from their source repos when installed.
+Some plugins live in their own source repositories (like `skulk`) and are fetched from there when installed. Others live directly inside this repo under `plugins/`.
