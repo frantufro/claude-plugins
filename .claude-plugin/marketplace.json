@@ -1,0 +1,30 @@
+{
+  "name": "frantufro-plugins",
+  "owner": {
+    "name": "Fran Tufro",
+    "email": "fran@tufro.me"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Fran Tufro"
+  },
+  "plugins": [
+    {
+      "name": "skulk",
+      "description": "Manage a fleet of remote Claude Code agents over SSH. Full agent lifecycle: create, monitor, interact, review, ship, and clean up.",
+      "source": {
+        "source": "git-subdir",
+        "url": "frantufro/skulk",
+        "path": "claude-plugin"
+      },
+      "version": "0.2.0",
+      "author": {
+        "name": "Fran Tufro"
+      },
+      "homepage": "https://github.com/frantufro/skulk",
+      "repository": "https://github.com/frantufro/skulk",
+      "license": "MIT",
+      "keywords": ["agents", "ssh", "tmux", "worktree", "parallel", "remote"],
+      "category": "developer-tools"
+    }
+  ]
+}
