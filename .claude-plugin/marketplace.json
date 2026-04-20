@@ -27,6 +27,24 @@
       "category": "developer-tools"
     },
     {
+      "name": "cubil",
+      "description": "Manage markdown-based tasks with cubil. Create, list, show, edit, and move tasks between status folders (backlog, doing, done) from a plain .cubil/ directory in your repo.",
+      "source": {
+        "source": "git-subdir",
+        "url": "frantufro/cubil",
+        "path": "claude-plugin"
+      },
+      "version": "0.1.0",
+      "author": {
+        "name": "Fran Tufro"
+      },
+      "homepage": "https://github.com/frantufro/cubil",
+      "repository": "https://github.com/frantufro/cubil",
+      "license": "MIT",
+      "keywords": ["tasks", "markdown", "productivity", "todo", "cli"],
+      "category": "developer-tools"
+    },
+    {
       "name": "rust-development",
       "description": "Senior Rust development skills: TDD-disciplined implementation (rust-dev) and structured code review (rust-review).",
       "source": "./plugins/rust-development",
