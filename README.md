@@ -13,7 +13,9 @@ A Claude Code plugin marketplace.
 | Plugin | Description | Install |
 |--------|-------------|---------|
 | **skulk** | Manage a fleet of remote Claude Code agents over SSH | `/plugin install skulk@frantufro-plugins` |
-| **rust-development** | Senior Rust skills: TDD implementation and structured code review | `/plugin install rust-development@frantufro-plugins` |
+| **cubil** | Manage markdown-based tasks in a plain `.cubil/` directory (backlog, doing, done) | `/plugin install cubil@frantufro-plugins` |
+| **husmo** | Save and retrieve documents/links through the husmo MCP server, with search by meaning, tag, or full-text | `/plugin install husmo@frantufro-plugins` |
+| **rust-development** | Senior Rust skills: TDD implementation (`rust-dev`) and structured code review (`rust-review`) | `/plugin install rust-development@frantufro-plugins` |
 
 ## About
 
