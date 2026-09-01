@@ -16,7 +16,7 @@
         "url": "frantufro/skulk",
         "path": "claude-plugin"
       },
-      "version": "0.2.0",
+      "version": "0.7.1",
       "author": {
         "name": "Fran Tufro"
       },
@@ -34,7 +34,7 @@
         "url": "frantufro/cubil",
         "path": "claude-plugin"
       },
-      "version": "0.1.0",
+      "version": "0.1.6",
       "author": {
         "name": "Fran Tufro"
       },
